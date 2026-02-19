@@ -1,0 +1,10 @@
+.DS_Store
+*.zip
+*.tar.gz
+*.7z
+.vscode/
+.idea/
+__pycache__/
+
+
+
